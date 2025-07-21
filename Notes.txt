@@ -1,3 +1,12 @@
 1. What if we dont return anything
 in jS if u dont manually return something, 
  it automatically return undefined
+
+ whenever we write the code global xution starts
+ memory and code 
+ every variable first initialized with undefined2nd phase execution startsinvoking of function execution context is created
+
+ //callstack
+ like a stack
+ everytime global execution context put in stack
+ 
